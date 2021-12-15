@@ -12,3 +12,4 @@ A simple HTML, CSS, JS web app to generate random password.
 # WEBAPP
 ![landing page](./password_generator_webapp.png)
 
+Inpiration for this app is from Traversy Media Course
